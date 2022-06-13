@@ -1,0 +1,11 @@
+---
+title: "main"
+author: "S. Keola"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+
+## presentation
+
+- 2022/06/17 <http://rmarkdown.rstudio.com>.
