@@ -8,4 +8,4 @@ output: html_document
 
 ## presentation
 
-- 2022/06/17 <http://rmarkdown.rstudio.com>.
+- 2022/06/17 [Implication of RCEP on rapidly expanding export-oriented agriculture in Lao PDR](laosagrtrade.html)
